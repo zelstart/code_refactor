@@ -1,5 +1,4 @@
 # Code Refactor Starter Code
-# Code Refactor Starter Code
 
 ## Description
 ### User Story
@@ -28,7 +27,6 @@ THEN I find a concise, descriptive title
 
 ## Credits
 [NC State University - IT Accessibility](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/alternative-text/)
-w3
 [W3Schools](https://www.w3schools.com/)
 [GeeksForGeeks](https://www.geeksforgeeks.org/what-is-the-difference-between-section-and-div-tags-in-html/#)
 
