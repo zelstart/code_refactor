@@ -19,16 +19,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## Installation
-
-
-## Usage
-
-
 ## Credits
 [NC State University - IT Accessibility](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/alternative-text/)
 [W3Schools](https://www.w3schools.com/)
 [GeeksForGeeks](https://www.geeksforgeeks.org/what-is-the-difference-between-section-and-div-tags-in-html/#)
 
-
 ## License
+MIT

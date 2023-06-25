@@ -2,7 +2,8 @@
 <html lang="en-us">
 
 <!-- Added alt text to images where necessary, added blank alt text to the remaining images-->
-<!-- Converted <div> tags to semantic html elements like <nav> and <section> -->
+<!-- Converted <div> tags to semantic html elements like <nav>, <main>, <section>, <object> and <aside> -->
+<!-- Added notes to clearly define sections of the webpage like the header, footer, main content, and asides. -->
 
 
 <head>
@@ -13,9 +14,9 @@
 
 <body>
     <!-- Header -->
-    <nav class="header">
+    <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <section>
+        <nav>
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -27,37 +28,36 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </section>
-    </nav>
+        </nav>
+    </header>
 
     <!-- Page Main Content -->
-    <section class="hero"></section>
-    <section class="content">
+    <object class="banner"></object>
+    <main class="content">
         <section class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" alt="photo of a notebook with the letters SEO written on it" class="float-left" />
             <h2>Search Engine Optimization</h2>
-                <p>
+            <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
-                </p>
+            </p>
         </section>
         <section id="online-reputation-management" class="online-reputation-management">
             <img src="./assets/images/online-reputation-management.jpg" alt="photo of a laptop with a graph labeled reputation trending upwards" class="float-right" />
             <h2>Online Reputation Management</h2>
-                <p>
+            <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
-                </p>
+            </p>
         </section>
-
         <section id="social-media-marketing" class="social-media-marketing">
             <img src="./assets/images/social-media-marketing.jpg" alt="photo of a group of people at a desk, surrounded by words and icons associated with social media marketing" class="float-left" />
             <h2>Social Media Marketing</h2>
-                <p>
+            <p>
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
-                </p>
+            </p>
         </section>
-    </section>
+    </main>
 
-    <!--Content on the right side of the page-->
+    <!-- Right Side Content -->
     <section class="benefits">
         <aside class="benefit-lead">
             <h3>Lead Generation</h3>
@@ -82,13 +82,13 @@
         </aside>
     </section>
 
-    <!--Footer-->
-    <section class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
+    <!-- Footer -->
+    <footer class="footer">
+        <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
-    </section>
+    </footer>
 </body>
 
 </html>
