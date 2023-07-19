@@ -20,9 +20,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-![Header and Banner](Develop/assets/images/screenshots/screenshot-1.JPG)
-![Main Content 1 of 2](Develop/assets/images/screenshots/screenshot-2.JPG)
-![Main Content 2 of 2 and Footer](Develop/assets/images/screenshots/screenshot-3.JPG)
+![Header and Banner](assets/images/screenshots/screenshot-1.JPG)
+![Main Content 1 of 2](assets/images/screenshots/screenshot-2.JPG)
+![Main Content 2 of 2 and Footer](assets/images/screenshots/screenshot-3.JPG)
 
 ## Credits
 [NC State University - IT Accessibility](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/alternative-text/)  
